@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>amen2that</title>
+  <icon>http://example.com/icon.png</icon>
+  <subtitle>and praying for the best!</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-05-12T02:15:28.608Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Derek Barton</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A Few More Minor Details</title>
+    <link href="http://example.com/2021/05/11/A-Few-More-Minor-Details/"/>
+    <id>http://example.com/2021/05/11/A-Few-More-Minor-Details/</id>
+    <published>2021-05-11T20:57:15.000Z</published>
+    <updated>2021-05-12T02:15:28.608Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;After a bunch of screwing around in my hosting account and eventually a call to the provider, I finally was able to get this blog</summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+    <category term="deployment" scheme="http://example.com/tags/deployment/"/>
+    
+    <category term="rss" scheme="http://example.com/tags/rss/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Deploy This?</title>
+    <link href="http://example.com/2021/05/07/Deploy-This/"/>
+    <id>http://example.com/2021/05/07/Deploy-This/</id>
+    <published>2021-05-08T03:11:40.000Z</published>
+    <updated>2021-05-12T02:38:38.558Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;So I’m still just getting warmed up with some of these new tools and am all thumbs. I recognize the criticality of getting familiarized</summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+    <category term="deployment" scheme="http://example.com/tags/deployment/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Well Here We Are!</title>
+    <link href="http://example.com/2021/05/06/My-First-Post/"/>
+    <id>http://example.com/2021/05/06/My-First-Post/</id>
+    <published>2021-05-06T20:54:51.000Z</published>
+    <updated>2021-05-10T20:19:55.872Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;It looks like I’ve finally gotten around to getting my blog launched. It seems that I’ve been this far before, but it’s really much</summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+    <category term="markdown" scheme="http://example.com/tags/markdown/"/>
+    
+    <category term="git" scheme="http://example.com/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/05/06/hello-world/"/>
+    <id>http://example.com/2021/05/06/hello-world/</id>
+    <published>2021-05-06T19:55:02.598Z</published>
+    <updated>2021-05-06T19:55:02.598Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

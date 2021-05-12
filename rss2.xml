@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>amen2that</title>
+    <link>http://example.com/</link>
+    
+    <image>
+      <url>http://example.com/icon.png</url>
+      <title>amen2that</title>
+      <link>http://example.com/</link>
+    </image>
+    
+    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>A place to collect my thoughts, share my findings, and hope for a glimmer of inspiration.</description>
+    <pubDate>Wed, 12 May 2021 02:15:28 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>A Few More Minor Details</title>
+      <link>http://example.com/2021/05/11/A-Few-More-Minor-Details/</link>
+      <guid>http://example.com/2021/05/11/A-Few-More-Minor-Details/</guid>
+      <pubDate>Tue, 11 May 2021 20:57:15 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;After a bunch of screwing around in my hosting account and eventually a call to the provider, I finally was able to get this blog</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/hexo/">hexo</category>
+      
+      <category domain="http://example.com/tags/deployment/">deployment</category>
+      
+      <category domain="http://example.com/tags/rss/">rss</category>
+      
+      
+      <comments>http://example.com/2021/05/11/A-Few-More-Minor-Details/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Deploy This?</title>
+      <link>http://example.com/2021/05/07/Deploy-This/</link>
+      <guid>http://example.com/2021/05/07/Deploy-This/</guid>
+      <pubDate>Sat, 08 May 2021 03:11:40 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;So I’m still just getting warmed up with some of these new tools and am all thumbs. I recognize the criticality of getting familiarized</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/hexo/">hexo</category>
+      
+      <category domain="http://example.com/tags/deployment/">deployment</category>
+      
+      
+      <comments>http://example.com/2021/05/07/Deploy-This/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Well Here We Are!</title>
+      <link>http://example.com/2021/05/06/My-First-Post/</link>
+      <guid>http://example.com/2021/05/06/My-First-Post/</guid>
+      <pubDate>Thu, 06 May 2021 20:54:51 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;It looks like I’ve finally gotten around to getting my blog launched. It seems that I’ve been this far before, but it’s really much</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/hexo/">hexo</category>
+      
+      <category domain="http://example.com/tags/markdown/">markdown</category>
+      
+      <category domain="http://example.com/tags/git/">git</category>
+      
+      
+      <comments>http://example.com/2021/05/06/My-First-Post/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://example.com/2021/05/06/hello-world/</link>
+      <guid>http://example.com/2021/05/06/hello-world/</guid>
+      <pubDate>Thu, 06 May 2021 19:55:02 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>http://example.com/2021/05/06/hello-world/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
