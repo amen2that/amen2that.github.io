@@ -14,7 +14,7 @@
 <meta property="og:description" content="After a bunch of screwing around in my hosting account and eventually a call to the provider, I finally was able to get this blog deployed! It’s sort of bewildering that sometimes even the simplest ta">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2021-05-11T20:57:15.000Z">
-<meta property="article:modified_time" content="2021-05-12T02:15:28.608Z">
+<meta property="article:modified_time" content="2021-05-12T02:48:38.364Z">
 <meta property="article:author" content="Derek Barton">
 <meta property="article:tag" content="hexo">
 <meta property="article:tag" content="deployment">
@@ -116,8 +116,9 @@
 <pre><code> hexo server
 </code></pre>
 </li>
-<li><p>Once I am happy with my post and am ready to deploy it, I can do that by running <code>generate</code> command, but I will be using <code>clean</code> instead, as it will clean the cache file (<code>db.json</code>) as well as generate the files for the public directory. I will also append the <code>deploy</code> command, which will also push the public files to <a target="_blank" rel="noopener" href="https://amen2that.github.io/">amen2that.github.io</a></p>
-<pre><code> hexo clean &amp;&amp; deploy
+<li><p>Once I am happy with my post and am ready to deploy it, I can do that by running <code>generate</code> command, which will compile my source files and generate my site in the /public/ directory. once I’ve don that, I’ll use <code>clean</code>, as it will clean the cache file (<code>db.json</code>) and <code>deploy</code> command, which will also push the public files to <a target="_blank" rel="noopener" href="https://amen2that.github.io/">amen2that.github.io</a></p>
+<pre><code> hexo generate
+ hexo clean &amp;&amp; deploy
 </code></pre>
 </li>
 <li><p> Lastly, I will want to push my public files located in my working hexo directory, ‘./amen2that/public/*‘ to my web server using whatever SFTP application I want… currently CyberDuck.</p>
@@ -129,7 +130,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://example.com/2021/05/11/A-Few-More-Minor-Details/" data-id="ckokuw16t0000f8s91ry46ter" data-title="A Few More Minor Details" class="article-share-link">Share</a>
+      <a data-url="http://example.com/2021/05/11/A-Few-More-Minor-Details/" data-id="ckokv61ge0000hus91ylrcdvb" data-title="A Few More Minor Details" class="article-share-link">Share</a>
       
       
       
