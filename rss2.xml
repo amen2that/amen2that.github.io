@@ -15,8 +15,35 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>A place to collect my thoughts, share my findings, and hope for a glimmer of inspiration.</description>
-    <pubDate>Wed, 12 May 2021 02:48:38 GMT</pubDate>
+    <pubDate>Fri, 14 May 2021 03:53:38 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>What the Flutter?</title>
+      <link>http://example.com/2021/05/13/What-the-Flutter/</link>
+      <guid>http://example.com/2021/05/13/What-the-Flutter/</guid>
+      <pubDate>Thu, 13 May 2021 22:26:01 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Rules were meant to be broken and I’m running headlong into this new rabbit hole for no real reason other than the fact that I have the</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="http://example.com/tags/flutter/">flutter</category>
+      
+      <category domain="http://example.com/tags/app-dev/">app dev</category>
+      
+      
+      <comments>http://example.com/2021/05/13/What-the-Flutter/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>A Few More Minor Details</title>

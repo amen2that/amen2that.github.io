@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-12T02:48:38.364Z</updated>
+  <updated>2021-05-14T03:53:38.100Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>What the Flutter?</title>
+    <link href="http://example.com/2021/05/13/What-the-Flutter/"/>
+    <id>http://example.com/2021/05/13/What-the-Flutter/</id>
+    <published>2021-05-13T22:26:01.000Z</published>
+    <updated>2021-05-14T03:53:38.100Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Rules were meant to be broken and I’m running headlong into this new rabbit hole for no real reason other than the fact that I have the</summary>
+        
+      
+    
+    
+    
+    
+    <category term="flutter" scheme="http://example.com/tags/flutter/"/>
+    
+    <category term="app dev" scheme="http://example.com/tags/app-dev/"/>
+    
+  </entry>
+  
+  <entry>
     <title>A Few More Minor Details</title>
     <link href="http://example.com/2021/05/11/A-Few-More-Minor-Details/"/>
     <id>http://example.com/2021/05/11/A-Few-More-Minor-Details/</id>
     <published>2021-05-11T20:57:15.000Z</published>
-    <updated>2021-05-12T02:48:38.364Z</updated>
+    <updated>2021-05-14T03:58:40.073Z</updated>
     
     
       
